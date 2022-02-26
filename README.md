@@ -50,7 +50,7 @@ showBackgroundSetting = () => {
     {
       text: '确定',
       onPress: () => {
-        showBackgroundSetting()
+        openBatteryStrategySettings()
       },
     },
   ])
